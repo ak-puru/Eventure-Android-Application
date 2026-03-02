@@ -14,3 +14,16 @@ The system integrates Firebase Authentication and Firestore to provide secure us
 * User registration and authentication via Firebase
 * Profile creation and editing
 * Secure user-event association
+
+### Event Management
+* Create and edit events
+* Set and enforce event capacity limits
+* View and manage attendee lists
+* Join or withdraw from events
+* Real-time event updates via Firestore
+
+### Cloud Integration
+* Firebase Firestore real-time database
+* Persistent cloud-based storage
+* Scalable user-event data modeling
+
