@@ -10,3 +10,4 @@ The system integrates Firebase Authentication and Firestore to provide secure us
 
 ## Features
 
+### User Management
