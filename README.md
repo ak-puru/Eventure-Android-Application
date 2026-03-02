@@ -11,3 +11,6 @@ The system integrates Firebase Authentication and Firestore to provide secure us
 ## Features
 
 ### User Management
+* User registration and authentication via Firebase
+* Profile creation and editing
+* Secure user-event association
