@@ -2,6 +2,8 @@
 
 A full-stack Android application that enables users to create, discover, and manage events in real time using Firebase. Developed as part of CMPUT 301, this project focuses on scalable backend integration, collaborative development practices, and user-centered mobile design.
 
+Link to Github: https://github.com/CMPUT301F25hotpot0/hotpot0-match
+
 ## Overview
 
 Eventure is a mobile event management platform designed to streamline event organization and participation. The application allows users to create events, register as attendees, manage event capacity, and view updates dynamically through cloud-based data synchronization.
